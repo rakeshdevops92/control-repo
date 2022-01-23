@@ -4,6 +4,7 @@ mod 'puppet-archive', '6.0.2'
 mod 'puppetlabs-powershell', '5.0.0'
 mod 'puppetlabs-reboot', '4.1.0'
 mod 'dynatrace-dynatraceoneagent', '1.9.0'
+mod 'puppetlabs-powershell', '5.0.0'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
